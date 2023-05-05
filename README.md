@@ -1,5 +1,5 @@
 ## Hi, I am Zixuan (Vicky) Lu
-### who am my?
+### who am I?
  - a CG student :-)
   - Academic interest ： HPC / Deep Learning / Animation & Simulation / Game Engine / Rendering
 ### Educational background
